@@ -1,0 +1,14 @@
+Figma link : https://www.figma.com/design/80ncgnTNj14b1EmbFAtGuo/Law-of-Similarity?node-id=0-1&t=POkGZclTHNA3PdqM-1
+
+Exlanation :
+
+In the left screen (Bad Similarity), similar elements do not look similar:
+The heading, labels, and button use inconsistent colors.
+Input fields and the Sign In button look almost the same.
+Text, placeholders, and controls do not follow a clear visual pattern.
+
+In the right screen (Good Similarity), similar elements are styled consistently:
+All input fields look the same, clearly showing they belong to one group.
+Labels and placeholders follow a uniform style.
+The Sign In button has a distinct color and shape, making it clearly different from text and inputs.
+This creates a clear visual flow and makes relationships between elements immediately obvious.
