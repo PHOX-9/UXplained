@@ -1,0 +1,18 @@
+Figma Link:
+https://www.figma.com/design/zQ4AlV5OX4T7MHI7KXdIxF/Brand-Swap-UI?node-id=0-1&t=IXqj1SnVqVHgsPEn-1
+
+
+Brand Pair Chosen:
+Swiggy → Zomato
+
+Key Design Decisions:
+
+       1.Adopted Zomato’s bold red-and-white color palette to establish a confident and premium visual tone.
+
+       2.Used clean layouts, strong typography, and minimal UI elements to match Zomato’s design language.
+
+       3.Maintained generous spacing and clear visual hierarchy for better readability and usability.
+
+       4.Applied consistent button styles, cards, and typography across the Hero, Home, and Login screens.
+
+       5.Preserved Swiggy’s original food-delivery purpose and content structure without altering app flow.
